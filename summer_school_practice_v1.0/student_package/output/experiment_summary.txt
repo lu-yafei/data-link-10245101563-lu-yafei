@@ -1,0 +1,12 @@
+
+==== M6 Integrated Pipeline Summary ====
+binary total bytes: 123
+total 41‑byte frames: 3
+unified ndjson records: 6
+alert total count: 5
+
+Important notes:
+1. Mapping uses verified_mapping_table.csv, NOT raw llm_mapping_candidate.csv
+2. Source‑authenticity detection is NOT implemented in M5
+3. SQLite is optional, not enabled in this run.
+4. All outputs regenerated from empty output directory.

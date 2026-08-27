@@ -1,0 +1,4 @@
+﻿message_valid,target_id,timestamp,message_seq,callsign,on_ground,altitude_is_geometric,timestamp_fallback,lat,lon,altitude,speed,heading,vertical_rate
+True,780abc,1710000060,0,CES1234,False,False,False,31.230383212657742,121.47367035714876,9800.0,230.5,86.0,0.0
+True,000001,1710000090,1,TEST0001,True,False,False,2.1457677235048322e-05,4.2915354470096645e-05,0.0,0.0,0.0,0.0
+True,780def,1710000120,2,,False,True,True,30.27410036900052,120.1551390064094,7600.0,,270.0,-1.1999999999999886

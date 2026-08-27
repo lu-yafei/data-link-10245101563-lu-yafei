@@ -1,0 +1,5 @@
+﻿target_id,timestamp,timestamp_source,on_ground,callsign,altitude,alt_type,lat,lon,speed,heading,vertical_rate
+780abc,1710000060,position_time,False,CES1234,9800.0,barometric,31.2304,121.4737,230.5,86.0,0.0
+000001,1710000090,position_time,True,TEST0001,0.0,barometric,0.0,0.0,0.0,0.0,0.0
+780def,1710000120,fallback_time,False,,7600.0,geometric,30.2741,120.1551,,270.0,-1.2
+780bee,1710000120,position_time,False,BADHEAD,9000.0,barometric,22.5431,114.0579,220.0,360.0,0.0

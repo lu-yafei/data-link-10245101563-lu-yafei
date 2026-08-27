@@ -1,0 +1,6 @@
+﻿alert_time,target_id,alert_type,severity,field,description
+1787734813,780def,POSITION_MISSING,HIGH,"lat,lon",位置缺失，lat或lon为空
+1787734813,000001,DATA_DELAYED,MEDIUM,timestamp,"数据延迟，batch_time=1710000120,record_time=1710000000,差值=120秒>60"
+1787734813,780bbb,HEADING_OUT_OF_RANGE,MEDIUM,heading,"航向越界 heading=360.0,合法区间[0,360)"
+1787734813,780aaa,DUPLICATE_RECORD,MEDIUM,"target_id,timestamp",检测到重复记录 target_id=780aaa timestamp=1710000100
+1787734813,780aaa,DUPLICATE_RECORD,MEDIUM,"target_id,timestamp",检测到重复记录 target_id=780aaa timestamp=1710000100
